@@ -1,2 +1,2 @@
 # World-DataBase-
-this is a database of every single country in the world. ( was made for my college) 
+I will find a good application for it one day (probably)
